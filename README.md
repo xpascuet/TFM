@@ -9,7 +9,7 @@ A continuació s'ha creat un model predictiu del risc a Catalunya per a un deter
 A més s'han delimitat les àrees cremades, classificat la severitat i quantificat les emissions de CO2 en els 2 grans incenis forestals del 2022.
 
 Els codis s'executen sequencialment:
-  * 01: Neteja de les dades històriques d'incendis disponibles a la web del [DAAC.] (https://agricultura.gencat.cat/ca/serveis/cartografia-sig/bases-cartografiques/boscos/incendis-forestals/incendis-forestals-format-shp/)
+  * 01: Neteja de les dades històriques d'incendis disponibles a la web del [DAAC.](https://agricultura.gencat.cat/ca/serveis/cartografia-sig/bases-cartografiques/boscos/incendis-forestals/incendis-forestals-format-shp/)
   * 02: Consulta de les dades meteorològiques mitjançant l'API Climate Data Store i el conjunt ERA5 reanalisis
   * 03: Estadística inferencial per trobar si les mitjanes de les variables són diferents en els casos d'incendis respecte els casos de no incendis.
   * 04: Importància de variables mitjançant regressió logística
