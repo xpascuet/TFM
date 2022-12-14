@@ -10,13 +10,13 @@ A més s'han delimitat les àrees cremades, classificat la severitat i quantific
 
 Els codis s'executen sequencialment:
   * 01: Neteja de les dades històriques d'incendis disponibles a la web del [DAAC.](https://agricultura.gencat.cat/ca/serveis/cartografia-sig/bases-cartografiques/boscos/incendis-forestals/incendis-forestals-format-shp/)
-  * 02: Consulta de les dades meteorològiques mitjançant l'API Climate Data Store i el conjunt ERA5 reanalisis
+  * 02: Consulta de les dades meteorològiques mitjançant l'[API Climate Data Store](https://cds.climate.copernicus.eu/#!/home) i el conjunt [ERA5 reanalisis.](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview)
   * 03: Estadística inferencial per trobar si les mitjanes de les variables són diferents en els casos d'incendis respecte els casos de no incendis.
-  * 04: Importància de variables mitjançant regressió logística
-  * 05: Entrenament de la xarxa neuronal
-  * 06: Generació dels mapes de risc per a 4 dies determinats
+  * 04: Importància de variables mitjançant regressió logística.
+  * 05: Entrenament de la xarxa neuronal.
+  * 06: Generació dels mapes de risc per a 4 dies determinats.
   * 07: Tranformació dels rasters a poligons per poder publicar-los a [CARTO.](https://xpascuet.carto.com/builder/fea2609f-09e0-4afe-a0c6-daf4e3f6c828/embed)
   * 08: Obtenció de les àrres cremades dels 2 grans incendis del 2022 mitjançant l'API del SentinelHub, utilitza les funcions creades a l'script burned_area_utils.py
-  * 09: Quantificació de la biomasssa pèrduda i del CO2 emès en els incendis de l'apartat anterior
+  * 09: Quantificació de la biomasssa pèrduda i del CO2 emès en els incendis de l'apartat anterior.
   
   
