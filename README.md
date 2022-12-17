@@ -16,7 +16,7 @@ Els codis s'executen sequencialment:
   * 05: Entrenament de la xarxa neuronal.
   * 06: Generació dels mapes de risc per a 4 dies determinats.
   * 07: Tranformació dels rasters a poligons per poder publicar-los a [CARTO.](https://xpascuet.carto.com/builder/fea2609f-09e0-4afe-a0c6-daf4e3f6c828/embed)
-  * 08: Obtenció de les àrres cremades dels 2 grans incendis del 2022 mitjançant l'API del SentinelHub, utilitza les funcions creades a l'script burned_area_utils.py ELs mapes resultants estan publicats: [Baldomà](https://xpascuet.carto.com/builder/d302e520-9406-4d4c-a07e-0fd0a5693adc/embed) i [EL Pont de Vilomara](https://xpascuet.carto.com/builder/d55b83cc-1875-44c1-9359-53b4c5cf7d6b/embed)
+  * 08: Obtenció de les àrres cremades dels 2 grans incendis del 2022 mitjançant l'API del SentinelHub, utilitza les funcions creades a l'script burned_area_utils.py ELs mapes resultants estan publicats: [Baldomà](https://xpascuet.carto.com/builder/d302e520-9406-4d4c-a07e-0fd0a5693adc/embed) i [El Pont de Vilomara](https://xpascuet.carto.com/builder/d55b83cc-1875-44c1-9359-53b4c5cf7d6b/embed)
   * 09: Quantificació de la biomasssa pèrduda i del CO2 emès en els incendis de l'apartat anterior.
   
   
