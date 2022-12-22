@@ -2,7 +2,7 @@
 ## Màster en Ciència de Dades- UOC
 ### Anàlisi dels factors determinants d’incendis forestals i predicció del risc a Catalunya
 
-Aquest conjunt de codis s'ha utilitzat en primer lloc per analitzar les dades històrics dels incendis forestals a Catalunya, veure la seva relació amb variables orogràfiques, meteorològiques, de vegetació i usos del sol.
+Aquest conjunt de codis s'ha utilitzat en primer lloc per analitzar les dades històrics dels incendis forestals a Catalunya, veure la seva relació amb variables orogràfiques, meteorològiques, de vegetació i usos del sòl.
 
 A continuació s'ha creat un model predictiu del risc a Catalunya per a un determinat dia, utilitzant una xarxa neuronal convolucional.
 
