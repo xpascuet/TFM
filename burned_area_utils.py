@@ -272,7 +272,7 @@ def getFeatures(gdf):
 
 def poligonize(in_raster, out_geojson):
     """
-    Transforma raster into poligon (GeoJSON file)
+    Transform raster into polygon (GeoJSON file)
     """
     with rasterio.open(in_raster) as src:
         src_band = src.read(1)
