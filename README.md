@@ -4,7 +4,7 @@
 
 Aquest conjunt de codis s'ha utilitzat en primer lloc per analitzar les dades històrics dels incendis forestals a Catalunya, veure la seva relació amb variables orogràfiques, meteorològiques, de vegetació i usos del sòl.
 
-A continuació s'ha creat un model predictiu del risc a Catalunya per a un determinat dia, utilitzant una xarxa neuronal convolucional.
+A continuació s'ha creat un model predictiu del risc a Catalunya per a un determinat dia, utilitzant una xarxa neuronal.
 
 A més s'han delimitat les àrees cremades, classificat la severitat i quantificat les emissions de CO2 en els 2 grans incenis forestals del 2022.
 
